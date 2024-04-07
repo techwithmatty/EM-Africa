@@ -1,2 +1,2 @@
 # EM-Africa-Macroeconomic-Analysis
-Macroeconomic analysis of EM economies in Africa
+Macroeconomic analysis of emerging markets in Africa
